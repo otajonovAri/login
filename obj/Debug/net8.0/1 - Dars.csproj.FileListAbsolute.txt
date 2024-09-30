@@ -1,0 +1,14 @@
+C:\Object Orient Programming\1 - Dars\bin\Debug\net8.0\1 - Dars.exe
+C:\Object Orient Programming\1 - Dars\bin\Debug\net8.0\1 - Dars.deps.json
+C:\Object Orient Programming\1 - Dars\bin\Debug\net8.0\1 - Dars.runtimeconfig.json
+C:\Object Orient Programming\1 - Dars\bin\Debug\net8.0\1 - Dars.dll
+C:\Object Orient Programming\1 - Dars\bin\Debug\net8.0\1 - Dars.pdb
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.AssemblyInfoInputs.cache
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.AssemblyInfo.cs
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.csproj.CoreCompileInputs.cache
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.dll
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\refint\1 - Dars.dll
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.pdb
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\1 - Dars.genruntimeconfig.cache
+C:\Object Orient Programming\1 - Dars\obj\Debug\net8.0\ref\1 - Dars.dll
